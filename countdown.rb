@@ -2,7 +2,7 @@
 
 #write your code here
 def countdown_with_sleep(number)
-  sleep 5
+  sleep 0.33
 end
 
 def countdown(number)
